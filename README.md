@@ -1,9 +1,7 @@
 # Booking API
 ==============
 
-A CRM application for hotel owners to manage their bookings (third-party and direct bookings), customers, sales etc. 
-
-In future hotel owners get frontend UI for their customers to book their rooms. 
+A CRM application for hotel owners to manage their bookings (third-party and direct bookings), customers, sales etc.
 
 # API Architecture
 ===================
